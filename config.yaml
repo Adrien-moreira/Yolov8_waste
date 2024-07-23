@@ -1,0 +1,11 @@
+
+path: /Users/Adrien/Documents/CPE/5ETI/WasteFlow/Assignment/Code/Yolov8_waste/dataset
+train: images/train
+val: images/val
+
+# Classes
+names: 
+  0: rigid_plastic
+  1: cardboard
+  2: metal
+  3: soft_plastic
